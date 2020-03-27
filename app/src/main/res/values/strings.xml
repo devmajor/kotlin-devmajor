@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kotlin-devmajor</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Start.NG</string>
+    <string name="previous">Previous</string>
+
+    <string name="fullname">Full name: Victor Akanmidu</string>
+    <string name="username">Username: devmajor</string>
+    <string name="email">Email: victor.mrcertified@gmail.com</string>
+    <string name="tracks">Tracks: Design, Mobile, Frontend</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
